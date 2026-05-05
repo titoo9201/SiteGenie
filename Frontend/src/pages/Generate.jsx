@@ -80,7 +80,7 @@ function Generate() {
             </button>
 
             <h1 className="text-lg font-semibold">
-              SiteGenie<span className="text-zinc-400">.ai</span>
+              SiteGenie<span className="text-zinc-400"></span>
             </h1>
           </div>
         </div>
@@ -126,7 +126,7 @@ function Generate() {
                 : "bg-white/20 text-zinc-400 cursor-not-allowed"
             }`}
           >
-            Generate SiteGenie.ai 🤖
+            Generate SiteGenie🤖
           </motion.button>
         </div>
         {Loading && (
