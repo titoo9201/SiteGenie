@@ -198,7 +198,7 @@ function Home() {
       {/* Brand */}
       <div>
         <h2 className="text-xl font-semibold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-          SiteGenie.ai
+          SiteGenie
         </h2>
         <p className="mt-4 text-sm text-zinc-400 leading-relaxed">
           AI-powered website builder for creating modern, responsive and production-ready websites.
