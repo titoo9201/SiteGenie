@@ -15,7 +15,7 @@ function About() {
           Building the Future of Website Creation with AI
         </h1>
         <p className="text-zinc-400 text-lg leading-relaxed">
-          SiteGenie.ai is an AI-powered website builder that transforms your ideas
+          SiteGenie is an AI-powered website builder that transforms your ideas
           into modern, responsive and production-ready websites within seconds.
         </p>
       </motion.div>
@@ -32,7 +32,7 @@ function About() {
         </div>
 
         <div>
-          <h2 className="text-2xl font-semibold mb-6">Why SiteGenie.ai?</h2>
+          <h2 className="text-2xl font-semibold mb-6">Why SiteGenie?</h2>
           <ul className="space-y-4 text-zinc-400">
             <li>• Instant AI website generation</li>
             <li>• Clean, responsive HTML output</li>
@@ -46,7 +46,7 @@ function About() {
       <div className="max-w-4xl mx-auto text-center mb-24">
         <h2 className="text-2xl font-semibold mb-6">Founder</h2>
         <p className="text-zinc-400 leading-relaxed">
-          SiteGenie.ai was built by a passionate developer focused on combining
+          SiteGenie was built by a passionate developer focused on combining
           AI with modern web technologies to empower creators worldwide.
           The vision is simple — make website building smarter, faster, and more accessible.
         </p>
