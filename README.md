@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧞 SiteGenie.ai
+# 🧞 SiteGenie
 
 ### Build Stunning Websites with AI
 
