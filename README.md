@@ -6,8 +6,8 @@
 
 *Describe your idea and let AI generate a modern, responsive, production-ready website.*
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-SiteGenie.ai-purple?style=for-the-badge)](https://sitegenie-ai-1.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-SITEGENIE__AI-black?style=for-the-badge&logo=github)](https://github.com/titoo9201/SITEGENIE_AI)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-SiteGenie-purple?style=for-the-badge)](https://sitegenie-ai-1.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-SITEGENIE-black?style=for-the-badge&logo=github)](https://github.com/titoo9201/SITEGENIE_AI)
 
 </div>
 
